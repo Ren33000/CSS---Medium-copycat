@@ -1,6 +1,6 @@
 # Medium-article
 
-![Banner](https://github.com/Ren33000/ren-portfolio/blob/master/source/assets/images/banner.jpg)
+![Banner](https://github.com/Ren33000/medium-article/blob/gh-pages/Screen%20Shot%202021-11-16%20at%2020.33.32.png)
 
 
 
