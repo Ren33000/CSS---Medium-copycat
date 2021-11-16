@@ -4,7 +4,7 @@
 
 
 
-- Medium page copycat
+- Medium page copycat in HTML and CSS only
 - Part of the challenges of the Front-End course (Le Wagon Tokyo)
 
 ## URL
